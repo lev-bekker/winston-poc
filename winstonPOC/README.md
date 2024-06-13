@@ -18,10 +18,12 @@ Make sure you have the following prerequisites installed on your system:
 
 ### Installation
 
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine by https or by ssh:
 
    ```bash
-   git clone https://github.com/your-username/winston-poc.git
+   git clone https://github.com/lev-bekker/winston-poc.git
+
+   git clone git@github.com:lev-bekker/winston-poc.git
    ```
 
 2. Navigate to the project directory:
